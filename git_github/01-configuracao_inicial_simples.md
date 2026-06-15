@@ -16,7 +16,7 @@ ssh-keygen -t ed25519 -C "exemplo@gmail.com"
 
 # Exibir chave pública
 ```bash
-cat ~/.ssh/id_ex25519.pub
+cat ~/.ssh/id_ed25519.pub
 ```
 
 # Adicionar a chave ao GitHub
