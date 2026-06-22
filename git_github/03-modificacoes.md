@@ -5,4 +5,5 @@ git diff mostra alterações locamente
 git diff
 ```
 
-ajustando o texto
+teste
+
